@@ -1,4 +1,4 @@
-# japflix-g5
+# japflix
 
 Pages: https://tahirivazquez.github.io/japflix/
 
