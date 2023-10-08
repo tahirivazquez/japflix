@@ -1,6 +1,6 @@
 # japflix-g5
 
-Pages: https://tahirivazquez.github.io/japflix-g5/
+Pages: https://tahirivazquez.github.io/japflix/
 
 Pautas: Modificar el sitio web adjunto para lograr cumplir con las siguientes pautas:
 
